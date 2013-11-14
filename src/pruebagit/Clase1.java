@@ -10,4 +10,7 @@ package pruebagit;
  */
 public class Clase1 {
     
+    public static void hola(){
+        System.out.println("Clase 1");
+    }
 }
